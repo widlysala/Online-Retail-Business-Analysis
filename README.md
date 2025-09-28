@@ -5,7 +5,7 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 <b>*Please note</b> that the sales and products tables do not relate. The data is very limited, so I tried my best to extract the most valuable insights.
 
 ## Products' KPI
-All the charts are ranged from Jan 2017 to Dec 2019.
+<i>Note: All the charts are ranged from Jan 2017 to Dec 2019. The terms “cheap” and “expensive” are used interchangeably with “budget” and “premium,” respectively.</i>
 
 ### Overall Performance
 
@@ -26,13 +26,12 @@ Range of the product is calculated by its average, and according to the quartile
 
 ![Graph2](uploaded/visual/Demand.png)
 
-One more time we are being convinced that "Easter" and "Gift Baskets" are the weakest performers, all their net sales come from the only order. Whereas, surprisingly, the most demanded products fall into the expensive and average price ranges, though only one or two of them, other products from the same range can't even compete with those in the cheap category.
+Once again, we can see that “Easter” and “Gift Baskets” are the weakest performers, with all their net sales coming from just a single order. On the other hand, the most in-demand products fall within the mid and high price ranges—though this applies only to one or two standout types. Other products in these ranges fail to compete even with those in the cheap category.
 
-Grouping by price ranges, and despite a clear spike on the graph, we can find out that cheap range is taking a lead by total of 3167 goods being sold. Descendingly follows mid range with 1942, and expensive - 1473.
-Cheap range products are taking over by quantity, but it doesn't mutually exclude the fact that customers are solvent if the product is in their best interest.
+When grouped by price range, the budget segment leads with 3,167 units sold, followed by the mid range with 1,942, and the premium range with 1,473. While budget products dominate in volume, this does not mutually exclude the customers’ willingness to purchase higher-priced items when they find them worthwhile.
 
 ### Conclusion
 
-Net Sales are directly impacted by total Goods Ordered, meanwhile Orders dominate in products of a cheap price range. This is the most popular sector by now. 
+Net sales are directly driven by the total number of goods ordered, with orders concentrated in the budget price range, which remains the most popular segment.
 
-Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" are the leaders in sales, main interest of our customers and a primary source of profit in the business; making them a focus for promotion and marketing, especially first 2 of them, can potentially benefit, since they are already in a high demand and in the most profitable price ranges.
+Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" continue to lead in sales, representing the main customer interest and a primary source of profit for the business; making these categories — particularly the first two — a focus for promotion and marketing could be highly beneficial, since they are already in high demand and fall within the most profitable price ranges. This alone forms a solid base for growth.
