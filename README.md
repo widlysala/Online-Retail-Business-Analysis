@@ -13,7 +13,7 @@ The following chart shows us how the company's Net Sales are related to the Dema
 
 ![Poorest Performance](uploaded/visual/Net%20Sales.png)
 
-From this graph you can clearly see that  "Gift Basket" and "Easter" are the weakest in perforamnce, both by demand and total profits.
+From this graph, you can clearly see that "Gift Basket" and "Easter" are the weakest in performance, both by demand and total profits.
 
 You could also notice that the top 3 performers in the low demand category have bigger net sales than some products from the average one. This is a good sign, indicating the presence of bulk buyers and their solvency.
 
