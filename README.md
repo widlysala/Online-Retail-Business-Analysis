@@ -17,3 +17,4 @@ From this graph you can clearly see that  "Gift Basket" and "Easter" are the wea
 
 You could also notice that the top 3 performers in the low demand category have bigger net sales than some products from the average one. This is a good sign, indicating the presence of bulk buyers and their solvency.
 
+And yet, the top performers across all products are those with the highest demand, placing low- and average-demand sectors on the same level by comparison.
