@@ -35,3 +35,7 @@ When grouped by price range, the budget segment leads with 3,167 units sold, fol
 Net sales are directly driven by the total number of goods ordered, with orders concentrated in the budget price range, which remains the most popular segment.
 
 Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" continue to lead in sales, representing the main customer interest and a primary source of profit for the business; making these categories — particularly the first two — a focus for promotion and marketing could be highly beneficial, since they are already in high demand and fall within the most profitable price ranges. This alone forms a solid base for growth.
+
+## Sales Performance
+
+
