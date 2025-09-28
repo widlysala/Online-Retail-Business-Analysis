@@ -62,7 +62,7 @@ Whereas it’s impossible to give a precise prediction of sales due to the lack 
 |---------------------------------------------------|-----------|
 |avg % change within the quarter (despite year)     |72,552.09  |
 |avg % change each quarter across the record history|61,238.19  |
-|---------------------------------------------------|-----------|
+|- - - - - - - - - - - - - - - - - - - - - - - - - -|- - - - - -|
 |avg from all expected values                       |66,895.14  |
 
 The table above was calculated using limited data, and provides an indication of what next quarter’s sales might look like. The result was derived using two different methods, and the average of these results was taken to produce the final expected value.
