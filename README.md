@@ -5,4 +5,4 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 <b>*Please note</b> that the sales and products tables do not relate. The data is very limited, so I tried my best to extract the most valuable insights.
 
 ##Products' KPI
-![Poorest Performance}(uploaded/visual/Net Sales)
+![Poorest Performance](uploaded/visual/Net Sales)
