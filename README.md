@@ -6,6 +6,8 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 
 ## Products' KPI
 
-The following chart shows us how company's Net Sales related to the Demand (from lowest to highest), giving us a perspective on what product types perform better than the others.
+The following chart shows us how company's Net Sales related to the Demand (from lowest to highest), giving us a perspective on what product types perform better than the others. The demand is calculated by sold goods and not total orders!, where if quantity > then the average across all product types it's given to be "High", where if it's lower and also smaller than 100 - "Low", everything else falls in between - "Average".
 
 ![Poorest Performance](uploaded/visual/Net%20Sales.png)
+
+From this graph you can clearly see that  "Gift Basket" and "Easter" are the weakest in perforamnce, both by demand and total profits.
