@@ -38,4 +38,4 @@ Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" continue to lead in s
 
 ## Sales Performance
 
-![Graph3](uplaoded/visual/sales%20&%20orders.png)
+![Graph3](uplaoded/visual/Sales%20Orders.png)
