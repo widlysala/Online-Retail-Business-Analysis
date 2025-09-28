@@ -6,5 +6,6 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 
 ## Products' KPI
 
-The following chart shows us how company's Net Sales related to the Demand (from lowest to highest). Giving us a perspective on what product types perform better than the others.
+The following chart shows us how company's Net Sales related to the Demand (from lowest to highest), giving us a perspective on what product types perform better than the others.
+
 ![Poorest Performance](uploaded/visual/Net%20Sales.png)
