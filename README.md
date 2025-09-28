@@ -5,9 +5,12 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 <b>*Please note</b> that the sales and products tables do not relate. The data is very limited, so I tried my best to extract the most valuable insights.
 
 ## Products' KPI
+All the charts are ranged from Jan 2017 to Dec 2019.
 
-The following chart shows us how company's Net Sales related to the Demand, giving us a perspective on what product types perform better than the others. The demand is calculated by sold goods and not total orders!, where if quantity bigger than the average across all product types it's given to be "High", where if it's lower and also smaller than 100 - "Low", everything else falls in-between - "Average".
+The following chart shows us how the company's Net Sales are related to the Demand, giving us a perspective on what product types perform better than the others. The demand is calculated by sold goods and not total orders!, where if the quantity is bigger than the average across all product types, it's given to be "High", where if it's lower and also smaller than 100 - "Low", everything else falls in-between - "Average". 
 
 ![Poorest Performance](uploaded/visual/Net%20Sales.png)
 
 From this graph you can clearly see that  "Gift Basket" and "Easter" are the weakest in perforamnce, both by demand and total profits.
+
+You could also notice that the top 3 performers in the low demand category have bigger net sales than some products from the average one. This is a good sign indicating that 
