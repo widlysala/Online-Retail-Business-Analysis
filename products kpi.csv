@@ -1,0 +1,19 @@
+product_type,total_orders,total_quantity,demand,total_sales,sales_performance,avg_cost_per_item,price_range
+Accessories,39,84,Low,3785.4,Average,57.3,Mid
+Art & Sculpture,337,1427,High,84480.8,High,64.8,Mid
+Basket,546,1461,High,134791.4,High,100.1,Expensive
+Christmas,72,575,High,14460.8,Average,26.9,Cheap
+Easter,1,1,Low,34.2,Poor,34.2,Cheap
+Fair Trade Gifts,28,110,Average,2204.7,Average,26.1,Cheap
+Furniture,16,27,Low,1865.0,Average,75.8,Mid
+Gift Baskets,1,1,Low,19.5,Poor,19.5,Cheap
+Home Decor,131,404,High,25700.0,High,60.6,Mid
+Jewelry,209,991,High,29573.0,High,33.9,Cheap
+Kids,63,140,Average,3721.3,Average,26.6,Cheap
+Kitchen,158,809,High,15336.8,Average,27.3,Cheap
+Music,29,98,Low,2418.9,Average,28.4,Cheap
+One-of-a-Kind,12,12,Low,2108.0,Average,175.7,Expensive
+Recycled Art,23,99,Low,3704.2,Average,49.7,Cheap
+Skin Care,11,101,Average,2571.8,Average,21.6,Cheap
+Soapstone,66,199,Average,4629.1,Average,22.9,Cheap
+Textiles,13,43,Low,1679.1,Average,37.8,Cheap
