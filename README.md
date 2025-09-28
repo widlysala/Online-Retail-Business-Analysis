@@ -44,7 +44,7 @@ Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" continue to lead in s
 
 The graph illustrates quarter-to-quarter percentage growth in Net Sales and Orders, providing a relative view of performance rather than just absolute totals. This perspective highlights fluctuations in momentum and exposes patterns that raw totals may hide.
 
-![Graph3](uploaded/visual/Sales%20Orders2.png)
+![Graph3](uploaded/visual/Sales%20Orders.jpg)
 
 The Net Sales trend shows alternating surges and declines, suggesting instability but also a cyclical rhythm. Local peaks are consistently observed in even-numbered quarters, indicating a seasonal effect. However, the most recent quarter, 2019 Q3, breaks this pattern with around 132% of an exceptional spike in sales growth, far surpassing previous fluctuations and suggesting the success of a recent strategic push.
 
