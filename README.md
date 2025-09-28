@@ -36,6 +36,33 @@ Net sales are directly driven by the total number of goods ordered, with orders 
 
 Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" continue to lead in sales, representing the main customer interest and a primary source of profit for the business; making these categories — particularly the first two — a focus for promotion and marketing could be highly beneficial, since they are already in high demand and fall within the most profitable price ranges. This alone forms a solid base for growth.
 
+“Easter” and “Gift Baskets,” on the other hand, are weak performers — they fail to attract customer attention and generate meaningful sales. Phasing them out could allow the business to redirect resources toward more promising opportunities.
+
 ## Sales Performance
 
-![Graph3](uploaded/visual/Sales%20Orders.png)
+### Sales stats. by Quarter
+
+The graph illustrates quarter-to-quarter percentage growth in Net Sales and Orders, providing a relative view of performance rather than just absolute totals. This perspective highlights fluctuations in momentum and exposes patterns that raw totals may hide.
+
+![Graph3](uploaded/visual/Sales%20Orders2.png)
+
+The Net Sales trend shows alternating surges and declines, suggesting instability but also a cyclical rhythm. Local peaks are consistently observed in even-numbered quarters, indicating a seasonal effect. However, the most recent quarter, 2019 Q3, breaks this pattern with around 132% of an exceptional spike in sales growth, far surpassing previous fluctuations and suggesting the success of a recent strategic push.
+
+The chart shows that orders consistently move ahead of sales, highlighting how customer behavior changes more sharply than revenue. Customers come and go in greater numbers, while sales shift more gradually, since not every fluctuation in customer activity translates directly into revenue. This makes customer movements more dramatic, whereas sales remain steadier over time.
+
+### Summary 
+
+Taken together, the chart suggests that while sales growth has historically been volatile but patterned, the extraordinary spike in 2019 Q3 may signal either a turning point in business performance or a temporary anomaly worth investigating further. Moreover, the consistent lead-lag relationship between orders and sales could be leveraged as a predictive indicator—tracking order growth may help forecast upcoming sales trends with greater accuracy.
+
+### Sales Forecast
+
+Whereas it’s impossible to give a precise prediction of sales due to the lack of quantitative data, it is possible to estimate an expected value based on the existing net sales records and their patterns.
+
+|next quarter's expected net sales by:              |forecast_nq|
+|---------------------------------------------------|-----------|
+|avg % change within the quarter (despite year)     |72,552.09  |
+|avg % change each quarter across the record history|61,238.19  |
+|---------------------------------------------------|-----------|
+|avg from all expected values                       |66,895.14  |
+
+The table above was calculated using limited data, and provides an indication of what next quarter’s sales might look like. The result was derived using two different methods, and the average of these results was taken to produce the final expected value.
