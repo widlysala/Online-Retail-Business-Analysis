@@ -111,12 +111,12 @@ avg_diffq as (
   where rnk != 1
   group by regexp_extract(q, r'Q[1-4]')
   order by regexp_extract(q, r'Q[1-4]')
-)
+),
 
 -- forecast next quarter --
-
+forecast_nextq as (
 select 
-  "next quarter's expected net sales by: avg % change each quarter across the record history" as q,
+  "avg % change each quarter across the record history" as `next quarter's expected net sales by:`,
   -- the reason why we + and not - is beacuse if the average difference ever will be negative then - on + will give -, 
   -- but if we - them then negative value will contribute positively, which doesn't make sense.
   -- also, we're predicting value of the next quarter, so the current value acts as a "previous quarter" which we +ing the average difference on,
@@ -128,7 +128,7 @@ cross join latest_q lq
 union all
 
 select 
-  "next quarter's expected net sales by: avg % change within the quarter (despite year)",
+  "avg % change within the quarter (despite year)",
   round (
   case
     when lq.q like "%Q1" then lq.net_sales_pq + ad2.diff_eachq
@@ -139,5 +139,14 @@ select
 from avg_diffq ad2
 join latest_q lq 
   on regexp_extract(lq.q, r'Q[1-4]') = ad2.q
+)
 
-
+select `next quarter's expected net sales by:`, forecast_nq
+from(
+select *, 1 as sort
+from forecast_nextq
+union all
+select 'avg from all expected values', avg(forecast_nq), 2 as sort
+from forecast_nextq
+)
+order by sort
