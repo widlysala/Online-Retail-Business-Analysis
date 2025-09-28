@@ -6,4 +6,4 @@ This dashboard will be devide into 2 main parts, where I will showcase the busin
 
 ##Products' KPI
 
-![Poorest Performance](uploaded/visual/Net Sales.png)
+![Poorest Performance](uploaded/visual/Net%20Sales.png)
