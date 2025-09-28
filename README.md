@@ -27,9 +27,12 @@ Range of the product is calculated by its average, and according to the quartile
 ![Graph2](uploaded/visual/Demand.png)
 
 One more time we are being convinced that "Easter" and "Gift Baskets" are the weakest performers, all their net sales come from the only order. Whereas, surprisingly, the most demanded products fall into the expensive and average price ranges, though only one or two of them, other products from the same range can't even compete with those in the cheap category.
+
 Grouping by price ranges, and despite a clear spike on the graph, we can find out that cheap range is taking a lead by total of 3167 goods being sold. Descendingly follows mid range with 1942, and expensive - 1473.
-Cheap range products are taking over by quantity, but it doesn't mutually exclude the fact that customers are solvent if the product is in their best interest. "Basket", "Art & Sculpture" and "Jewerly" are the main interests of our customers, and source of profit for our business; making them a primery focus for promotion and marketing, especially first 2 of them, will benefit, since they are already in a high demand and in the most profitable price ranges.
+Cheap range products are taking over by quantity, but it doesn't mutually exclude the fact that customers are solvent if the product is in their best interest.
 
 ### Conclusion
 
-Net Sales are directly impacted by total Goods Ordered, meanwhile Orders 
+Net Sales are directly impacted by total Goods Ordered, meanwhile Orders dominate in products of a cheap price range. This is the most popular sector by now. 
+
+Notwithstanding, "Basket", "Art & Sculpture" and "Jewerly" are the leaders in sales, main interest of our customers and a primary source of profit in the business; making them a focus for promotion and marketing, especially first 2 of them, can potentially benefit, since they are already in a high demand and in the most profitable price ranges.
